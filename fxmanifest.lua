@@ -6,11 +6,11 @@ author 'Haxalott'
 description 'Rob parking meters'
 
 client_scripts {
-    'client/cl_main.lua'
+    'cl_main.lua'
 }
 
 server_scripts {
-    'server/sv_main.lua'
+    'sv_main.lua'
 }
 
 shared_scripts {
