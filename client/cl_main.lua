@@ -29,6 +29,7 @@ RegisterNetEvent('hx_Meterobbery:client:rob', function()
             progBar(Lang['prog_bar'], 'machinic_loop_mechandplayer', 'anim@amb@clubhouse@tutorial@bkr_tut_ig3@', Config.Time)
             TriggerServerEvent('hx_Meterobbery:server:AddItem')
             Wait(Config.CooldownTime * 1000)
+            cooldown = false
         else
             notify(Lang['noti_title'], Lang['failed_noti'], 'error')
             TriggerServerEvent('hx_Meterobbery:server:RemoveItem')
