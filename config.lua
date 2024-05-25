@@ -10,7 +10,7 @@ Config.ProgBarPos = 'bottom' -- bottom, middle (ONLY FOR CIRCLE PROGBAR)
 Config.Reward = 'black_money' -- black_money, money
 Config.MinReward = 100
 Config.MaxReward = 1000
-Config.Webhook = 'https://discord.com/api/webhooks/1234750995800653865/vYbdGIOo6sunkxf2QYHEIKPAe-xJ4oicnVZAgAt-6t7zEAZ3vqPBCdv79daCA0Fn_SdD'
+Config.Webhook = 'CHANGE_ME'
 
 Config.NotifyOnCooldownEnd = true -- Whether or not it notify's the player when their cooldown ends
 Config.CooldownTime = 60 -- Time in seconds
