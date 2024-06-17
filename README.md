@@ -1,5 +1,8 @@
+
 - hx_MeterRobbery -
 A robbery script to rob parking meters
+
+if you have any issues join my discord: https://discord.gg/6btSzWVuwb
 
 Dependencies --
 1. ox_inventory
